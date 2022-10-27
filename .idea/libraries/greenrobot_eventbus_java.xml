@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="greenrobot.eventbus.java" type="repository">
+    <properties maven-id="org.greenrobot:eventbus-java:3.3.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/eventbus-java-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
